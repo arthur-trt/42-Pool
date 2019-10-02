@@ -1,0 +1,6 @@
+Credentials cache: API:83390D44-2AB6-4F0C-9239-28E00CCE7A89
+        Principal: atrouill@42.FR
+
+  Issued                Expires               Principal
+Jul 29 11:40:39 2019  Aug  5 11:40:39 2019  krbtgt/42.FR@42.FR
+Jul 29 12:27:56 2019  Aug  5 11:40:39 2019  host/vgs-fn1.42.fr@42.FR
